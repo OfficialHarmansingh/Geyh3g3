@@ -18,7 +18,7 @@ padding-right:30px ;
     text-align:center;
   }
   #hero{
-    background-image:url("2.png")
+    background-image:url("r.png")
       background-size:cover;
   }
   #hero  
@@ -31,28 +31,29 @@ padding-right:30px ;
     padding-right:90px
     padding-left:90px;
     font-size: 50px ;
-    text-align: center;
+    text-align: ;
+    radius:80px;
     color:red;
-    background-image:url(E.jpg);
-   
+    background-image:url("E.jpg") ;
+   background-size:cover ;
     
   }
   h1 {
     text-align:center;
-    color: white;
+    color:white;
   }
   h2 {
 
     text-align:center;
 
-    color: black;
+    color: orangered;
   }
   h4 {
     color:red;
   text-align: center;
   }
   p {
-    color:black ;
+    color:black;
   }
 button {
   border-radius:90px;
